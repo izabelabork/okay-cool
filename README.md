@@ -1,2 +1,2 @@
-# okay-cool
+# hello-world
 My first repository
